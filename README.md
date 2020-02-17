@@ -1,5 +1,5 @@
 # Leagues-App
-##Android application to show the world football leagues' that works online and offline with:
+## Android application to show the world football leagues' that works online and offline with:
 
 - Recycler View: https://developer.android.com/guide/topics/ui/layout/recyclerview
 - Card View: https://developer.android.com/guide/topics/ui/layout/cardview
