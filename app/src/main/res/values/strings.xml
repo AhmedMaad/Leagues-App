@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Football League Application</string>
+    <string name="leagues">Leagues</string>
+    <string name="teams">Teams</string>
+    <string name="not_allowed_dialog_message">Unfortunately, this league is not allowed for free usage</string>
+    <string name="ok">OK</string>
+    <string name="you_are_offline">You are offline, showing old data…</string>
+    <string name="no_cached_data">No cached data</string>
+    <string name="team_logo">A picture for the team logo</string>
+    <string name="loading_indicator">Loading indicator</string>
+</resources>
